@@ -7076,10 +7076,10 @@ pnp-webpack-plugin@1.2.1:
   dependencies:
     ts-pnp "^1.0.0"
 
-polishgenomejs@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/polishgenomejs/-/polishgenomejs-1.0.3.tgz#7ab46db328338744a8b73303c0cbccdc8fd9e0e9"
-  integrity sha512-ELaqUNoj6CAdqAzhtJYZbVZHrtNtf25ZdG3juqqQ6CpdArLRaBK+Fs4/kvPMCmn6n0m9VsS+RYEyV5C34sdtYA==
+polishgenomejs@^1.0.5:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/polishgenomejs/-/polishgenomejs-1.0.6.tgz#3301f912798243eb5dd64983263aaa5cb81ab68b"
+  integrity sha512-4uBIV/yXcq7JQ4e0M0Y+ftSLRdffg5PXpd33OUDkFDjV/4z0Kxp8WstPnzfyBpy2cWHfmCyrbHUkwqvyIkVtEQ==
 
 portfinder@^1.0.9:
   version "1.0.20"

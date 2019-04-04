@@ -7077,9 +7077,9 @@ pnp-webpack-plugin@1.2.1:
     ts-pnp "^1.0.0"
 
 polishgenomejs@^1.0.5:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/polishgenomejs/-/polishgenomejs-1.0.6.tgz#3301f912798243eb5dd64983263aaa5cb81ab68b"
-  integrity sha512-4uBIV/yXcq7JQ4e0M0Y+ftSLRdffg5PXpd33OUDkFDjV/4z0Kxp8WstPnzfyBpy2cWHfmCyrbHUkwqvyIkVtEQ==
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/polishgenomejs/-/polishgenomejs-1.0.10.tgz#adaef5f1e499a67f796bcb256335656c6cec6244"
+  integrity sha512-Mp4/abg7be3m3jYf+MEhAX1PyMeeNqtRo+CGWC1FV8njUSVy3QQ5wtm9lktgKWoC1XGBrOvfJtXXoq76woU+Sg==
 
 portfinder@^1.0.9:
   version "1.0.20"
